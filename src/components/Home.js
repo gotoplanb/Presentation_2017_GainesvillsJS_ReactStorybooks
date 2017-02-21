@@ -15,7 +15,7 @@ export default () => (
           <GlobalHeader />
         </Col>
       </Row>
-      <Row cols={1}>
+      <Row>
         <Col cols={1}>
           <GlobalNavigation />
         </Col>

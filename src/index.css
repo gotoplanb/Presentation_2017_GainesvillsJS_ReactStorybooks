@@ -1,0 +1,10 @@
+.slds-grid {
+  border: 1px solid green;
+  margin: 10px;
+  padding: 10px;
+}
+
+.slds-col {
+  border: 1px solid red;
+  padding: 10px;
+}

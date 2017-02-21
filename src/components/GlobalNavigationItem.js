@@ -1,10 +1,13 @@
 import React from 'react';
+import {
+  Col,
+} from 'react-lightning-design-system';
 
 const GlobalNavigationItem = (props) => {
   return (
-    <div>
+    <Col>
       {props.itemName}
-    </div>
+    </Col>
   )
 }
 
