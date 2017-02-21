@@ -1,7 +1,10 @@
 import React from 'react';
+import GlobalNavigationItem from './GlobalNavigationItem';
 
 export default () => (
   <nav>
-    GlobalNavigation
+    <GlobalNavigationItem itemName="foo" />
+    <GlobalNavigationItem itemName="bar" />
+    <GlobalNavigationItem itemName="baz" />
   </nav>
 );
