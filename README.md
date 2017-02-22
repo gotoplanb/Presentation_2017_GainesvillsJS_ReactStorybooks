@@ -1,4 +1,4 @@
-# Introduction to the Lightning Design system
+# React Storybooks
 
 Presented to the Gainesville JS meetup group on February 21, 2017
 
